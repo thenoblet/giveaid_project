@@ -6,7 +6,8 @@ from giveaid.models import User
 class UserAPITests(APITestCase):
 
     def setUp(self):
-        self.user = User.objects.create_user(email='testuser@example.com', password='testpassword', name='Test User')
+        User.objects.all().delete()
+        self.user = User.objects.create_user(username='testuser', email='testuser@example.com', password='testpassword')
 
     # User Registration Tests
 
