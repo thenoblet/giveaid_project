@@ -99,5 +99,5 @@ The integration of Django with MySQL posed significant challenges, including com
 ### Non-Technical Challenges
 Remote team communication and coordination were challenging due to time zone differences. Miscommunications regarding task assignments and priorities occasionally led to delays.
 
-##  tdaisioso@gmail.com
+## TEAM
 By: [Patrick A. Noblet](https://github.com/thenoblet/), [Temitayo Daisi-Oso](https://github.com/theAstralProgrammer0) and [Lawson Israel Pascal](https://github.com/lawsonlawson)
