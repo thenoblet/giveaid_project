@@ -1,4 +1,4 @@
-# 🌟 GiveAid Foundation Web App MVP 🌟
+# 🌟 GiveAid Foundation Web App 🌟
 
 Welcome to the GiveAid Foundation Web App MVP! This platform connects generous donors with individuals and organizations in need, making it easy to contribute to meaningful causes. Below, you'll find an overview of the architecture, APIs, data model, user stories, progress, challenges, and more.
 
